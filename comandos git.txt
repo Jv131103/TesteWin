@@ -3,7 +3,7 @@ Usos principais do GIT no CMD:
 1- git cloney
 Copia a URL de projeto do GITHUB para a máquina
 
-2- git add <nome do arquivo>.<extensão>
+2- git add <nome do arquivo>.<extensão> ou git .
 Colocar na minha stage área(Na minha máquina)
 
 3- git commit -m "Apelido do DIR"
