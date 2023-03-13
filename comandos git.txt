@@ -17,3 +17,9 @@ Me permite enviar o arquivo da máquina para o site do GitHub
 
 6- git remote -v
 Me permite analisar o meu push de usuário do git 
+
+7- git pull
+Me permite atualizar dados do git em meus arquivos de máquina
+
+8- git fetch
+Tb me permite Atualizar dados do git em meus arquivos de máquina
