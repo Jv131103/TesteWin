@@ -23,3 +23,20 @@ Me permite atualizar dados do git em meus arquivos de máquina
 
 8- git fetch
 Tb me permite Atualizar dados do git em meus arquivos de máquina
+
+9- git branch
+Me permite analisar qual branch do git estou usando (Padrão: main)
+
+10- git branch <nome_do_branch>
+Me permite criar um branch
+
+11- git checkout <nome_do_branch_que_quer_acessar>
+Me permite mudar e ir para outro branch do git
+
+12- git diff . ou git diff <arquivo>.<extensão>
+Me permite analisar o que foi alterado
+
+13- git merge <branch_a_ser_copiado>
+Me permite copiar arquivos de um branch para outro
+
+
